@@ -1,0 +1,7 @@
+config.json
+__pycache__/
+*.rar
+*.pyc
+.env
+.idea/
+.vscode/
